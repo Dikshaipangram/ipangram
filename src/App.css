@@ -1,0 +1,9 @@
+.plus:before{
+ content: "";
+  border-bottom:1px solid  blue;
+}
+
+div,button{
+  font-size: 12px;
+  font-weight: 500;
+}
